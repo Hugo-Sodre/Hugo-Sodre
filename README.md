@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h2><b>A Back-end Developer by day ☼ </b></h2>
+<h2><b>A Back-end Developer </b></h2>
 
 
 ⚙️ I use daily: .cs, .js, .html, .css,
