@@ -2,7 +2,7 @@
 <h2><b>A Back-end Developer </b></h2>
 
 
-⚙️ I use daily: .cs, .js, .html, .css,
+⚙️ I use daily: .cs
 
 💬 ping me about C#, branding, development, 
 
